@@ -179,7 +179,7 @@ export default function App() {
             <div className="stat-card">
               <div className="stat-icon" style={{background: '#fff3cd', color: '#856404'}}>⏱️</div>
               <div className="stat-info">
-                <h3>เฉลี่ยเวลาต่อกะ</h3>
+                <h3>เฉลี่ยเวลาต่อตู้</h3>
                 <p>--</p>
               </div>
             </div>
